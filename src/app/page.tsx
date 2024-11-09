@@ -1,8 +1,8 @@
 "use client";
 
-import TodoForm from "<react_f>/components/TodoForm";
-import TodoItem from "<react_f>/components/TodoItem";
-import { useStore } from "<react_f>/store";
+import TodoForm from "@/components/TodoForm";
+import TodoItem from "@/components/TodoItem";
+import { useStore } from "@/store";
 import { useEffect } from "react";
 
 const Home: React.FC = () => {
