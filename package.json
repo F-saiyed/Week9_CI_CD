@@ -11,8 +11,13 @@
   "dependencies": {
     "concurrently": "^9.0.1",
     "next": "15.0.2",
+<<<<<<< HEAD
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+=======
+    "react": "19.0.0-rc-02c0e824-20241028",
+    "react-dom": "19.0.0-rc-02c0e824-20241028",
+>>>>>>> 96b12a61194fe143b3b77e7eb63cc935b6b802e6
     "zustand": "^5.0.1"
   },
   "devDependencies": {
